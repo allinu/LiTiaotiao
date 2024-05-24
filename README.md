@@ -64,3 +64,14 @@
 ## ---致敬，为良心软件点赞！
 
 声明：本仓库仅用于存储李跳跳软件，不参与任何商业行为，仅供学习交流使用，如有侵权，请联系本人删除。
+
+
+## Star History
+
+<a href="https://star-history.com/?utm_source=bestxtools.com#rongzhiy/LiTiaotiao&Date">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=rongzhiy/LiTiaotiao&type=Date&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=rongzhiy/LiTiaotiao&type=Date" />
+    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=rongzhiy/LiTiaotiao&type=Date" />
+  </picture>
+</a>
