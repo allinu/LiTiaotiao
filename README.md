@@ -57,7 +57,7 @@
 
 ## uBlock Origin 最佳广告拦截工具  
 
-✅[uBlock Origin — 最佳广告拦截工具]([https://microsoftedge.microsoft.com/addons/detail/adblock-%E2%80%94-%E6%9C%80%E4%BD%B3%E5%B9%BF%E5%91%8A%E6%8B%A6%E6%88%AA%E5%B7%A5%E5%85%B7/ndcileolkflehcjpmjnfbnaibdcgglog](https://github.com/gorhill/uBlock)) 		
+✅[uBlock Origin — 最佳广告拦截工具](https://github.com/gorhill/uBlock)
 
 
 
